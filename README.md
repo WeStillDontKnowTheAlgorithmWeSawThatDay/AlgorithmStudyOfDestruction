@@ -9,6 +9,7 @@
 ## 운영방식
 
 - 주 1회(일요일) 온라인으로 푼 문제 점검
+- 주 1회 2시간씩 모여서 실전 모의고사
  
   
 
@@ -19,6 +20,10 @@
 | <img src="https://avatars.githubusercontent.com/u/77482065?v=4" width=100px alt="디노"/> | <img src="https://avatars.githubusercontent.com/u/64852591?v=4" width=100px alt="라온"/> | <img src="https://avatars.githubusercontent.com/u/91244090?v=4" width=100px alt="우가"/>|<img src="https://avatars.githubusercontent.com/u/94087228?v=4" width=100px alt="베베"/>  |
 |                       [디노](https://github.com/jjongwa)                        |                         [라온](https://github.com/mcodnjs)                             |                            [우가](https://github.com/wugawuga)                              |                          [베베](https://github.com/wonyongChoi05)                                  |
 
+|                                         Backend                                          |
+| :--------------------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/51906604?v=4" width=100px alt="저문"/> |
+|                       [저문](https://github.com/jeomxon)                        |
 
 
 ## 파일 작성 및 commit 규칙
@@ -50,3 +55,9 @@ git commit -m "feat: 1주차 - 디노"
 1. 일주일 기한 내에 못 올릴 시, 문제당 2000원씩 벌금
 
 2. 반성문 300자
+
+## Weekly Problem Solving
+
+| **주차** | **문제 1**                                                   | **문제 2**                                                 | **문제 3**                                                   | **문제 4**                                                | **문제 5**                                                                                      |
+| -------- | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- | -------------------------------------------------------- |
+| WEEK1    | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)            | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)        | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)             | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)       | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)    |
