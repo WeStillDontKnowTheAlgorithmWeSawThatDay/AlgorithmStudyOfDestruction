@@ -14,11 +14,15 @@
 
 ## 멤버
 
-|                                         Backend                                          |                                         Backend                                          |                                         Backend                                          |                                         Backend                                         
+|                                         Backend                                          |                                         Backend                                          |                                         Backend                                          |                                         Backend                                         |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
 | <img src="https://avatars.githubusercontent.com/u/77482065?v=4" width=100px alt="디노"/> | <img src="https://avatars.githubusercontent.com/u/64852591?v=4" width=100px alt="라온"/> | <img src="https://avatars.githubusercontent.com/u/91244090?v=4" width=100px alt="우가"/>|<img src="https://avatars.githubusercontent.com/u/94087228?v=4" width=100px alt="베베"/>  |
 |                       [디노](https://github.com/jjongwa)                        |                         [라온](https://github.com/mcodnjs)                             |                            [우가](https://github.com/wugawuga)                              |                          [베베](https://github.com/wonyongChoi05)                                  |
 
+|                                        Backend                                         |                                        Backend                                         |              Backend               |
+|:--------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:----------------------------------:| 
+| <img src="https://avatars.githubusercontent.com/u/51906604?v=4" width=100px alt="저문"/> | <img src="https://avatars.githubusercontent.com/u/89302528?v=4" width=100px alt="리오"/> | <img src="https://avatars.githubusercontent.com/u/80631952?v=4" width=100px alt="채채"/> |
+|                            [저문](https://github.com/jeomxon)                            |                            [리오](https://github.com/Jaeyoung22)                            |               [채채](https://github.com/chaewon121)               |
 
 
 ## 파일 작성 및 commit 규칙
