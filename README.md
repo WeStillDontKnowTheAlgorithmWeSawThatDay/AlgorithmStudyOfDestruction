@@ -50,3 +50,10 @@ git commit -m "feat: 1주차 - 디노"
 1. 일주일 기한 내에 못 올릴 시, 문제당 2000원씩 벌금
 
 2. 반성문 300자
+
+
+## Weekly Problem Solving
+| **주차** | **문제 1**      | **문제 2**       | **문제 3**   | **문제 4**  | **문제 5**        |
+|--------|---------------|----------------|------------|-----------|-----------------|
+| WEEK1  | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)      | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)  | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) |
+| WEEK2  | [입국심사]()      | [완주하지 못한 선수]() | [피보나치 수]() | [주식 가격]() | [키패드 누르기]()     |
