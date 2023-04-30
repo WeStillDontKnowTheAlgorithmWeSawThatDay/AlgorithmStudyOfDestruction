@@ -57,7 +57,7 @@ git commit -m "feat: 1주차 - 디노"
 
 
 ## Weekly Problem Solving
-| **주차** | **문제 1**      | **문제 2**       | **문제 3**   | **문제 4**  | **문제 5**        |
-|--------|---------------|----------------|------------|-----------|-----------------|
+| **주차** | **문제 1**      | **문제 2**       | **문제 3**   | **문제 4**  | **문제 5**        | **문제 6**        |
+|--------|---------------|----------------|------------|-----------|-----------------|-----------------|
 | WEEK1  | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)      | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)  | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) |
-| WEEK2  | [입국심사]()      | [완주하지 못한 선수]() | [피보나치 수]() | [주식 가격]() | [키패드 누르기]()     |
+| WEEK2  | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)      | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)     |  [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |
