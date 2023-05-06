@@ -4,8 +4,8 @@ def solution(numbers, target):
     for num in numbers:
         tmpList = []
         for a in ansList:
-            tmpList.append(a+num)
-            tmpList.append(a-num)
+            tmpList.append(a + num)
+            tmpList.append(a - num)
         ansList = tmpList
     for a in ansList:
         if a == target:
