@@ -57,3 +57,4 @@ def solution(rows, columns, queries):
         s_x -= x_len
 
     return answer
+
