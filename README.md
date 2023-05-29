@@ -9,9 +9,9 @@
 ## 운영방식
 
 - 일 ~ 토 일주일 동안 지정된 문제 풀고 PR 보내기
-- PR 요청은 매주 토요일 23:59 까지 
-- 매주 일요일 각자 푼 문제 확인하고 approve 해주기
-- 월 2회 실전 모의고사 풀이
+- PR 요청은 매주 일요일 23:59 까지 
+- 매주 월요일 각자 푼 문제 확인하고 approve 해주기
+- 월 1회 실전 모의고사 풀이
  
 
 ## 멤버
@@ -55,8 +55,8 @@ feat: 1주차 - 디노
 ## 패널티
 
 1. 일주일 기한 내에 못 올릴 시, 문제당 2000원씩 벌금
-
-2. 반성문 300자 - 반성문 폴더에 제출
+2. 지각 시 벌금 2000원 추가
+3. 반성문 300자 - 반성문 폴더에 제출
 
 
 ## Weekly Problem Solving
@@ -67,5 +67,5 @@ feat: 1주차 - 디노
 | WEEK3 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)  | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)  | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)   | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) |  |
 | WEEK4 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) |
 | WEEK5 | [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) |  |
-| WEEK6 | 튜플 | 모음 사전 | 소수 찾기 | 문자열 내 마음대로 정렬하기 | 징검다리 | 디스크 컨트롤러 |
+| WEEK6 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) |
 | WEEK7 | 위장 | 정수 삼각형 | 가장 먼 노드 | 보석 쇼핑 | 스킬 트리 |  |
