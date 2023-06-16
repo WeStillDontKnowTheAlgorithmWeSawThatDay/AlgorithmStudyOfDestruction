@@ -33,6 +33,7 @@
 
 ```
 PGS_교점에별만들기_디노.py
+BOJ_10815_숫자카드_디노.py
 ```
 
 - 플랫폼 작성법 통일: 
@@ -61,11 +62,14 @@ feat: 1주차 - 디노
 
 ## Weekly Problem Solving
 | **주차** | **문제 1**      | **문제 2**       | **문제 3**   | **문제 4**  | **문제 5**        | **문제 6**        |
-|--------|---------------|----------------|------------|-----------|-----------------|-----------------|
+|----|:----:|:----:|:----:|:----:|:----:|:----:|
 | WEEK1  | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)      | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)  | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) |
 | WEEK2  | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)      | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)     |  [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |
 | WEEK3 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)  | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)  | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)   | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) |  |
 | WEEK4 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) |
 | WEEK5 | [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) |  |
-| WEEK6 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) |
-| WEEK7 | 위장 | 정수 삼각형 | 가장 먼 노드 | 보석 쇼핑 | 스킬 트리 |  |
+| WEEK6 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [문자열 내 마음대로<br>정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) |
+| WEEK7 | Level 2 종료 | 복습 및 재정비 |  |  |  |  |
+| WEEK8 | Level 2 종료 | 복습 및 재정비 |  |  |  |  |
+| WEEK9 | [10815 - 숫자카드](https://www.acmicpc.net/problem/10815) | [2343 - 기타 레슨](https://www.acmicpc.net/problem/2343) | [2467 - 용액](https://www.acmicpc.net/problem/2467) | [1365 - 꼬인 전깃줄](https://www.acmicpc.net/problem/1365) | [1010- 다리 놓기](https://www.acmicpc.net/problem/1010) | [1193 - 분수 찾기](https://www.acmicpc.net/problem/1193) |
+| --- | 위장 | 정수 삼각형 | 가장 먼 노드 | 보석 쇼핑 | 스킬 트리 |  |
