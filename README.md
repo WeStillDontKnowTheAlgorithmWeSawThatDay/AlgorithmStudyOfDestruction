@@ -9,10 +9,9 @@
 ## 운영방식
 
 - 일 ~ 토 일주일 동안 지정된 문제 풀고 PR 보내기
-- PR 요청은 매주 일요일 23:59 까지 
-- 매주 월요일 각자 푼 문제 확인하고 approve 해주기
-- 월 1회 실전 모의고사 풀이
- 
+- PR 요청은 매주 일요일 23:59 까지
+- 각자 담당 크루의 PR review & merge
+- 최종 review & merge 기한은 매주 금요일 23:59 까지
 
 ## 멤버
 
@@ -21,10 +20,10 @@
 | <img src="https://avatars.githubusercontent.com/u/77482065?v=4" width=100px alt="디노"/> | <img src="https://avatars.githubusercontent.com/u/64852591?v=4" width=100px alt="라온"/> | <img src="https://avatars.githubusercontent.com/u/91244090?v=4" width=100px alt="우가"/>|<img src="https://avatars.githubusercontent.com/u/94087228?v=4" width=100px alt="베베"/>  |
 |                       [디노](https://github.com/jjongwa)                        |                         [라온](https://github.com/mcodnjs)                             |                            [우가](https://github.com/wugawuga)                              |                          [베베](https://github.com/wonyongChoi05)                                  |
 
-|                                        Backend                                         |                                        Backend                                         |              Backend               |
-|:--------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:----------------------------------:| 
-| <img src="https://avatars.githubusercontent.com/u/51906604?v=4" width=100px alt="저문"/> | <img src="https://avatars.githubusercontent.com/u/89302528?v=4" width=100px alt="리오"/> | <img src="https://avatars.githubusercontent.com/u/80631952?v=4" width=100px alt="채채"/> |
-|                            [저문](https://github.com/jeomxon)                            |                            [리오](https://github.com/Jaeyoung22)                            |               [채채](https://github.com/chaewon121)               |
+|                                        Backend                                         |                                        Backend                                         |              Backend               |              Backend               |
+|:--------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:----------------------------------:| :----------------------------------:| 
+| <img src="https://avatars.githubusercontent.com/u/51906604?v=4" width=100px alt="저문"/> | <img src="https://avatars.githubusercontent.com/u/89302528?v=4" width=100px alt="리오"/> | <img src="https://avatars.githubusercontent.com/u/80631952?v=4" width=100px alt="채채"/> | <img src="https://avatars.githubusercontent.com/u/112045553?v=4" width=100px alt="준팍"/> |
+|                            [저문](https://github.com/jeomxon)                            |                            [리오](https://github.com/Jaeyoung22)                            |               [채채](https://github.com/chaewon121)               |               [준팍](https://github.com/junpakPark)               |
 
 
 ## 파일 작성 및 PR 규칙
@@ -52,12 +51,13 @@ feat: 1주차 - 디노
 - 스스로와 절대 타협하지 말 것…
 - 봐주지 말기 (괜찮아 금지)
 - 스터디를 거짓으로 하지 말 것
+- 구글링 해도 되니까 포기하지 말고 풀어보기
 
 ## 패널티
 
 1. 일주일 기한 내에 못 올릴 시, 문제당 2000원씩 벌금
-2. 지각 시 벌금 2000원 추가
-3. 반성문 300자 - 반성문 폴더에 제출
+2. 금요일까지 본인 담당 PR merge 안해줄 시 벌금 1000원
+3. 2주 연속으로 벌금 낸 사람들 -> 반성문 300자 - 반성문 폴더에 제출
 
 
 ## Weekly Problem Solving
@@ -69,7 +69,7 @@ feat: 1주차 - 디노
 | WEEK4 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | [문자열 다루기<br>기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) |
 | WEEK5 | [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [2개 이하로<br>다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) |  |
 | WEEK6 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [문자열 내 마음대로<br>정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) |
-| WEEK7 | Level 2 종료 | 복습 및<br>재정비 |  |  |  |  |
-| WEEK8 | Level 2 종료 | 복습 및<br>재정비 |  |  |  |  |
+| WEEK7 & 8 | Level 2 종료 | 복습 및<br>재정비 |  |  |  |  |
+| 시즌 2  | Start!! |  |  |  |  |  |
 | WEEK9 | [10815<br>숫자카드](https://www.acmicpc.net/problem/10815) | [2343<br>기타 레슨](https://www.acmicpc.net/problem/2343) | [2467<br>용액](https://www.acmicpc.net/problem/2467) | [1365<br>꼬인 전깃줄](https://www.acmicpc.net/problem/1365) | [1010<br>다리 놓기](https://www.acmicpc.net/problem/1010) | [1193<br>분수 찾기](https://www.acmicpc.net/problem/1193) |
 | --- | 위장 | 정수 삼각형 | 가장 먼 노드 | 보석 쇼핑 | 스킬 트리 |  |
