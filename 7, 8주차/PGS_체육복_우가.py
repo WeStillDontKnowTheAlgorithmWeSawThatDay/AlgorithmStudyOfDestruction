@@ -1,10 +1,17 @@
 def solution(n, lost, reserve):
     answer = 0
     
+    lost.sort()
+    reserve.sort()
+    
+    temp = []
     for l in lost:
         if l in reserve:
             reserve.remove(l)
-            lost.remove(l)
+            temp.append(l)
+    
+    for te in temp:
+        lost.remove(te)
     
     for res in reserve:
         if len(lost) == 0:
@@ -15,4 +22,3 @@ def solution(n, lost, reserve):
             lost.remove(res + 1)
 
     return n - len(lost)
-# 86.7점이 나오네요,,,,
