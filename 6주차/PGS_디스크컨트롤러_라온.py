@@ -1,7 +1,6 @@
 import heapq
 
 def solution(jobs):
-
     answer = 0
     length = len(jobs)
 
@@ -15,10 +14,8 @@ def solution(jobs):
         for job in jobs:
             if job[0] <= current:
                 heapq.heappush(heap, (current + job[1], job))
-
-        if heap: # heap이 비어있지 않으면
+        if heap:
             pop = heapq.heappop(heap)
-            # print("pop element:", pop)
             wait_time = current - pop[1][0]
             work_time = pop[1][1]
             time.append(wait_time + work_time)
@@ -28,10 +25,27 @@ def solution(jobs):
             current += pop[1][1]
 
         else: 
-            # heapq.heapify(jobs)
             current = jobs[0][0]
-
-    answer = sum(time, 0.0)/len(time)
-    # print(int(answer))
-    return int(answer)
+    return sum(time, 0.0)//len(time)
     
+
+# 간결한 풀이
+def solution(jobs): 
+    answer, now, i = 0, 0, 0
+    start = -1
+    heap = []
+    
+    while i < len(jobs):
+        for j in jobs:
+            if start < j[0] <= now:
+                heapq.heappush(heap, (j[1], j[0]))
+        
+        if heap:
+            cur = heapq.heappop(heap)
+            start = now
+            now += cur[0]
+            answer += now - cur[1]
+            i += 1
+        else:
+            now += 1
+    return answer // i
