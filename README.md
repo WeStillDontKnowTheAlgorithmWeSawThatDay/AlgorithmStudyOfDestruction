@@ -72,4 +72,5 @@ feat: 1주차 - 디노
 | WEEK<br>7 & 8 | Level 2 종료 | 복습 및<br>재정비 |  |  |  |  |
 | 시즌 2  | Start!! |  |  |  |  |  |
 | WEEK9 | [10815<br>숫자카드](https://www.acmicpc.net/problem/10815) | [2343<br>기타 레슨](https://www.acmicpc.net/problem/2343) | [2467<br>용액](https://www.acmicpc.net/problem/2467) | [1365<br>꼬인 전깃줄](https://www.acmicpc.net/problem/1365) | [1010<br>다리 놓기](https://www.acmicpc.net/problem/1010) | [1193<br>분수 찾기](https://www.acmicpc.net/problem/1193) |
+| WEEK10 | [10988<br>팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) | [10610<br>30](https://www.acmicpc.net/problem/10610) | [2800<br>괄호 제거](https://www.acmicpc.net/problem/2800) | [1958<br>LCS 3](https://www.acmicpc.net/problem/1958) | [5582<br>공통 부분 문자열](https://www.acmicpc.net/problem/5582) | [1100<br>하얀 칸](https://www.acmicpc.net/problem/1100) |
 | --- | 위장 | 정수 삼각형 | 가장 먼 노드 | 보석 쇼핑 | 스킬 트리 |  |
