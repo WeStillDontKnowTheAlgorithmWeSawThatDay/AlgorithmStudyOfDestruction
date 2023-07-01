@@ -9,3 +9,4 @@ else:
       break
     elif i == len(s)//2-1 :
       print(1)
+      
