@@ -1,6 +1,9 @@
 import sys
 from itertools import combinations
 
+input = sys.stdin.readline
+
+
 def remove_bracket(expr, brackets):
     new_expr = list(expr)
     for i in brackets:
@@ -8,7 +11,7 @@ def remove_bracket(expr, brackets):
     return ''.join(new_expr)
 
 def solve():
-    expr = sys.stdin.readline().strip()
+    expr = input().strip()
     brackets = []
     stack = []
     for i in range(len(expr)):
