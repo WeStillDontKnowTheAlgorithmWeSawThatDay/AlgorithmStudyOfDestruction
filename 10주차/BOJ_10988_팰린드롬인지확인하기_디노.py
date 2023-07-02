@@ -5,4 +5,3 @@ for i in range(len(l)):
         exit()
 
 print(1)
-기
