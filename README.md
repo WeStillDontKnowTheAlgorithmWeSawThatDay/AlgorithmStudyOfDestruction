@@ -15,15 +15,15 @@
 
 ## 멤버
 
-|                                         Backend                                          |                                         Backend                                          |                                         Backend                                          |                                         Backend                                         |
-| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/77482065?v=4" width=100px alt="디노"/> | <img src="https://avatars.githubusercontent.com/u/64852591?v=4" width=100px alt="라온"/> | <img src="https://avatars.githubusercontent.com/u/91244090?v=4" width=100px alt="우가"/>|<img src="https://avatars.githubusercontent.com/u/94087228?v=4" width=100px alt="베베"/>  |
-|                       [디노](https://github.com/jjongwa)                        |                         [라온](https://github.com/mcodnjs)                             |                            [우가](https://github.com/wugawuga)                              |                          [베베](https://github.com/wonyongChoi05)                                  |
+|                                         Backend                                          |                                         Backend                                          |                                         Backend                                          |    
+| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/77482065?v=4" width=100px alt="디노"/> | <img src="https://avatars.githubusercontent.com/u/64852591?v=4" width=100px alt="라온"/> |<img src="https://avatars.githubusercontent.com/u/94087228?v=4" width=100px alt="베베"/>  |
+|                       [디노](https://github.com/jjongwa)                        |                         [라온](https://github.com/mcodnjs)                             |                          [베베](https://github.com/wonyongChoi05)                                  |
 
-|                                        Backend                                         |                                        Backend                                         |              Backend               |              Backend               |
-|:--------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:----------------------------------:| :----------------------------------:| 
-| <img src="https://avatars.githubusercontent.com/u/51906604?v=4" width=100px alt="저문"/> | <img src="https://avatars.githubusercontent.com/u/89302528?v=4" width=100px alt="리오"/> | <img src="https://avatars.githubusercontent.com/u/80631952?v=4" width=100px alt="채채"/> | <img src="https://avatars.githubusercontent.com/u/112045553?v=4" width=100px alt="준팍"/> |
-|                            [저문](https://github.com/jeomxon)                            |                            [리오](https://github.com/Jaeyoung22)                            |               [채채](https://github.com/chaewon121)               |               [준팍](https://github.com/junpakPark)               |
+|                                        Backend                                         |               Backend               |
+|:--------------------------------------------------------------------------------------:|:----------------------------------:| 
+| <img src="https://avatars.githubusercontent.com/u/89302528?v=4" width=100px alt="리오"/> | <img src="https://avatars.githubusercontent.com/u/112045553?v=4" width=100px alt="준팍"/> |
+|                            [저문](https://github.com/jeomxon)                            |                            [리오](https://github.com/Jaeyoung22)                            |      [준팍](https://github.com/junpakPark)               |
 
 
 ## 파일 작성 및 PR 규칙
@@ -76,4 +76,5 @@ feat: 1주차 - 디노
 | WEEK11 | [11660<br>구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | [1946<br>신입 사원](https://www.acmicpc.net/problem/1946) | [2167<br>2차원 배열의 합](https://www.acmicpc.net/problem/2167) | [2468<br>안전 영역](https://www.acmicpc.net/problem/2468) | [14503<br>로봇 청소기](https://www.acmicpc.net/problem/14503) | [2293<br>동전 1](https://www.acmicpc.net/problem/2293) |
 | WEEK12 | [2578<br>빙고](https://www.acmicpc.net/problem/2578) | [2563<br>색종이](https://www.acmicpc.net/problem/2563) | [2573<br>빙산](https://www.acmicpc.net/problem/2573) |  |  |  |
 | WEEK13 | [2810<br>컵홀더](https://www.acmicpc.net/problem/2810) | [2217<br>로프](https://www.acmicpc.net/problem/2217) | [1439<br>뒤집기](https://www.acmicpc.net/problem/1439) | [1744<br>수 묶기](https://www.acmicpc.net/problem/1744) | [3190<br>뱀](https://www.acmicpc.net/problem/3190) | [1520<br>내리막 길](https://www.acmicpc.net/problem/1520) |
+| WEEK14 | [9372<br>상근이의 여행](https://www.acmicpc.net/problem/9372) |[2644<br>촌수계산](https://www.acmicpc.net/problem/2644) | [1197<br>최소 스패닝 트리](https://www.acmicpc.net/problem/1197) |  [13460<br>구슬탈출](https://www.acmicpc.net/problem/13460) | [2446<br>별 찍기 - 9](https://www.acmicpc.net/problem/2446) | [9655<br>돌 게임](https://www.acmicpc.net/problem/9655) |
 | --- | 위장 | 정수 삼각형 | 가장 먼 노드 | 보석 쇼핑 | 스킬 트리 |  |
