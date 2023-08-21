@@ -75,5 +75,7 @@ feat: 1주차 - 디노
 | WEEK15 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [11478<br>서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | [1717<br> 집합의 표현](https://www.acmicpc.net/problem/1717) | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105?language=cpp)  | [17478<br>재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [14501<br>퇴사](https://www.acmicpc.net/problem/14501) |
 | WEEK16 | [18110<br>solved.ac](https://www.acmicpc.net/problem/18110) | [14940<br>쉬운 최단거리](https://www.acmicpc.net/problem/14940) | [21736<br>헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)  | [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [2294<br>동전 2](https://www.acmicpc.net/problem/2294) |
 | WEEK17 | [5635<br>생일](https://www.acmicpc.net/problem/5635) | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [20529<br>가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)  | [2941<br>크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [2096<br>내려가기](https://www.acmicpc.net/problem/2096) |
+| WEEK18 | [숫자 문자열과<br>영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [이진 변환<br>반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)  | [2583<br>영역 구하기](https://www.acmicpc.net/problem/2583) | [4811<br>알약](https://www.acmicpc.net/problem/4811) |
 
-<!-- | --- |  |  | 가장 먼 노드 | 보석 쇼핑 | 스킬 트리 |  | -->
+
+<!-- | --- |  |  | 가장 먼 노드 |  |  |  | -->
