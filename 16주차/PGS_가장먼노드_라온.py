@@ -1,3 +1,38 @@
+# *, distance 구하는법
+from collections import deque
+
+def solution(n, vertex):
+    answer = 0
+    visited = {}
+    graph = {i:[] for i in range(1, n+1)}
+    for i in range(1, len(graph)+1):
+        visited[i] = False
+
+    for src, dst in vertex:
+        graph[src].append(dst)
+        graph[dst].append(src)
+
+    distance = [0]*(n+1)
+    queue = deque([1])    
+    visited[1] = True
+    while queue:
+        flag = False
+        now = queue.popleft()
+        line = graph[now]
+        for i in line:
+            if visited.get(i) == False:
+                queue.append(i)
+                visited[i] = True   
+                distance[i] = distance[now] + 1
+    
+    mmax = max(distance)
+    for d in distance:
+        if d == mmax:
+            answer += 1
+    return answer
+
+
+'''
 from collections import deque
 def solution(n, edge):
     
@@ -49,3 +84,5 @@ def solution(n, edge):
                 break
 
     return length.count(max(length))
+
+'''
