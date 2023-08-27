@@ -76,6 +76,7 @@ feat: 1주차 - 디노
 | WEEK16 | [18110<br>solved.ac](https://www.acmicpc.net/problem/18110) | [14940<br>쉬운 최단거리](https://www.acmicpc.net/problem/14940) | [21736<br>헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)  | [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [2294<br>동전 2](https://www.acmicpc.net/problem/2294) |
 | WEEK17 | [5635<br>생일](https://www.acmicpc.net/problem/5635) | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [20529<br>가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)  | [2941<br>크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [2096<br>내려가기](https://www.acmicpc.net/problem/2096) |
 | WEEK18 | [숫자 문자열과<br>영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [이진 변환<br>반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)  | [2583<br>영역 구하기](https://www.acmicpc.net/problem/2583) | [4811<br>알약](https://www.acmicpc.net/problem/4811) |
+| WEEK19 | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973?language=cpp) | [2776<br>암기왕](https://www.acmicpc.net/problem/2776) | [호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)  | [1238<br>파티](https://www.acmicpc.net/problem/1238) | [2565<br>전깃줄](https://www.acmicpc.net/problem/2565) |
 
 
-<!-- | --- |  |  | 가장 먼 노드 |  |  |  | -->
+<!-- | --- |  |  |  |  |  |  | -->
