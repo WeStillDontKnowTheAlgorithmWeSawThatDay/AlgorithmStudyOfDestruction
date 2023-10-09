@@ -81,5 +81,6 @@ feat: 1주차 - 디노
 | WEEK21 | [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [13456<br>시험 감독](https://www.acmicpc.net/problem/13458) | [14499<br>주사위 굴리기](https://www.acmicpc.net/problem/14499)  | [2589<br>보물섬](https://www.acmicpc.net/problem/2589) | [신규 아이디<br>추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) |
 | WEEK22 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | [구명 보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)  | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | []() |
 | 추 | 석 | 연 | 휴 | 기 | 념 | 복습 및<br>재정비 |
+| WEEK23 | [외톨이 알파벳](https://school.programmers.co.kr/learn/courses/15008/lessons/121683) | [체육대회](https://school.programmers.co.kr/learn/courses/15008/lessons/121684) | [유전법칙](https://school.programmers.co.kr/learn/courses/15008/lessons/121685) | [운영체제](https://school.programmers.co.kr/learn/courses/15008/lessons/121686) | []() | []() |
 
 <!-- | --- |  |  |  |  |  |  | -->
